@@ -1,0 +1,14 @@
+.fondo{
+    background-color: antiquewhite;
+}
+#principal {
+    border: solid 1px #cccccc;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;}
+
+    #mifoto {
+        border: solid 2px;
+        margin: 10px;
+        }
+            

@@ -1,0 +1,21 @@
+.fondo{
+    background-color: antiquewhite;
+}
+#principal {
+    border: solid 1px #cccccc;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;}
+
+    body{
+        font-family: "Arial";
+    }
+    .container {
+        margin-top: 1.5;
+        }
+        
+        .color{
+            background-color: black;
+        
+        }
+       
