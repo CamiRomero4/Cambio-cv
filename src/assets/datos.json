@@ -1,0 +1,46 @@
+{
+    "DatosPersonales":{
+        "nombre": "Camila Gianella",
+        "apellido": "Romero Reyñanco",
+        "email": "camilagiaromero3@gmail.com"
+    },
+    "PerfilProfesional":{
+        "perfil": "Soy una estudiante que está cursando su último año de secundaria en el área de Técnico en Informática  profesional y personal, busco tener más conocimiento en todo el área de la tecnología que hay hoy en día en todo el mundo."
+    },
+    "Educación":
+        {
+          "Institucion": "Colegio N° 7113 Juan Abdala Chayep",
+          "Orientacion":"Tecnico en Informatica Profesional y Personal.",
+          "FechaEgreso":"2017 - Cursando el ultimo año."
+        },
+       
+     
+    "Proyecto":{
+            "proyecto":"Proyecto Product Backlog, Práctica Profesinalizante - 7mo E.T.P",
+            "anio":"2023"
+    },
+    
+    "Habilidades":[
+        {
+            "habilidad":"Dedicación"
+        },
+        {
+            "habilidad":"Responsabilidad"
+        },
+        {
+            "habilidad":"Comunicación"
+        },
+        {
+            "habilidad":"Organización"
+        },
+        {
+            "habilidad":"Empatía"
+        },
+        {
+            "habilidad":"Inteligencia emocional"
+        },
+        {
+            "habilidad":"Colaboración"
+        }
+    ]
+}

@@ -9,6 +9,7 @@ import { ProyectosComponent } from './fieldset/proyectos/proyectos.component';
 import { HabilidadesComponent } from './fieldset/habilidades/habilidades.component';
 import { ContactoComponent } from './footer/contacto/contacto.component';
 
+import {HttpClientModule} from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { ContactoComponent } from './footer/contacto/contacto.component';
     ContactoComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
